@@ -111,13 +111,13 @@
   /* HERO STYLES START */
   .hero {
     background-image: url("../images/webdevbackground.jpg");
-    background-size: cover;
+    background-size:initial;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-start;
     background-attachment: fixed;
-    background-position: 80%;
+    background-position: 70%;
   }
   
   .hero-cta {
