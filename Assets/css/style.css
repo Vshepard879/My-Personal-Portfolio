@@ -152,9 +152,13 @@
   }
   /* SECTION TITLE STYLES END */
   
-  
-  
-  /* WORKS START */
+  /* ABOUT ME STYLES START*/
+  .about-me {
+      margin: 10 auto;
+      padding: 30px;
+  }
+
+  /* WORKS STYLE START */
   .works {
     width: 100%;
     margin: 0 auto;
